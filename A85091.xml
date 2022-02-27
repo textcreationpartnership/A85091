@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>False prophets discovered. Being a true story of the lives and deaths of two weavers (late of Colchester) viz. Richard Farnham and Iohn Bull; who affirmed themselves the two great prophets which should come in the end of the world, mentioned Revel. 11. Also that the plague should not come nigh their dwelling. Neverthelesse being prisoners, the one in Old-Bridewell, the other in New-Bridewell, by a strange providence of almighty God, both the one and the other dyed of of the plague in a house where they usually met, in Rosemary-Lane, in Ianuary last, 1641. Here also is laid down their strange prophecies, and the Scriptures which they most blasphemously wrested, to the seducing of divers proselytes, who yet remaine obstinate, and confidently affirme that they are risen from the dead, and gone in vessels of bullrushes to convert the tenne Tribes; the which they will also seeme to prove, as may be seene by this ensuing discourse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85091</idno>
+            <idno type="STC">Wing F346</idno>
+            <idno type="STC">Thomason E138_4</idno>
+            <idno type="STC">ESTC R16465</idno>
+            <idno type="EEBO-CITATION">99860038</idno>
+            <idno type="PROQUEST">99860038</idno>
+            <idno type="VID">112145</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112145)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E138[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>False prophets discovered. Being a true story of the lives and deaths of two weavers (late of Colchester) viz. Richard Farnham and Iohn Bull; who affirmed themselves the two great prophets which should come in the end of the world, mentioned Revel. 11. Also that the plague should not come nigh their dwelling. Neverthelesse being prisoners, the one in Old-Bridewell, the other in New-Bridewell, by a strange providence of almighty God, both the one and the other dyed of of the plague in a house where they usually met, in Rosemary-Lane, in Ianuary last, 1641. Here also is laid down their strange prophecies, and the Scriptures which they most blasphemously wrested, to the seducing of divers proselytes, who yet remaine obstinate, and confidently affirme that they are risen from the dead, and gone in vessels of bullrushes to convert the tenne Tribes; the which they will also seeme to prove, as may be seene by this ensuing discourse.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bull, John, d. 1642.</term>
+               <term>Farnham, Richard, d. 1642.</term>
+               <term>Prophets --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112145:1"/>
+            <pb facs="tcp:112145:1" rendition="simple:additions"/>
+            <p>FALSE PROPHETS Diſcovered.</p>
+            <p>Being a true ſtory of the Lives and Deaths of two Weavers (late of Colche<g ref="char:EOLhyphen"/>ſter) <hi>viz. Richard Farnham</hi> and <hi>Iohn Bull;</hi> who affir<g ref="char:EOLhyphen"/>med themſelves the two great Prophets which ſhould come in the end of the world, Mentioned Revel. 11. Alſo that the Plague ſhould not come nigh their dwelling. Neverthe<g ref="char:EOLhyphen"/>leſſe being Priſoners, the one in Old-Bridewell, the other in New-Bridewell, by a ſtrange Providence of Almighty God, both the one and the other dyed of the Plague in a Houſe where they uſually met, in Roſemary-Lane, in <hi>Ianuary</hi> laſt, 1641.</p>
+            <p>Here alſo is laid down their ſtrange Pro<g ref="char:EOLhyphen"/>phecies, and the Scriptures which they moſt blaſphemouſly wreſted, to the ſeducing of divers Pro<g ref="char:EOLhyphen"/>ſelytes, who yet remaine obſtinate, and confidently affirme that they are riſen from the dead, and gone in veſſels of Bullruſhes to convert the tenne Tribes; the which they will alſo ſeeme to prove, as may be ſeene by this en<g ref="char:EOLhyphen"/>ſuing diſcourſe.</p>
+            <q>
+               <p>Wherefore let him that thinketh he ſtandeth, take heed leſt he fall.</p>
+               <bibl>
+                  <hi>1 Cor. 10.12.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed for <hi>I. W.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112145:2"/>
+            <pb facs="tcp:112145:2"/>
+            <head>Falſe Prophets Diſcovered.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ichard Farneham and John Bull late of Colcheſter weavers, do hold themſelves to be Prophets not ordinary, but the two great Prophets that ſhould come in the end of the world which were ſpoke of in Zach. 4.4. Which ſaith, theſe are the two anointed ones that ſtand before the Lord of the whole earth: they were alſo ſpoke of ſaid they in Revel. 11.3. where they be called the two witneſſes, Verſe 4.2. Olive trees &amp; two Candleſticks, Verſe 5. Out of their mouthes pro<g ref="char:EOLhyphen"/>ceeds fire, Verſe 6. They have power to ſhut Heaven that it raine not in the dayes of their propheſies; and power over waters to turn them to blood, and to ſmite the earth with all plagues as oft as they will, and they ſhall propheſie 1260 dayes, Verſe 3. And having fini<g ref="char:EOLhyphen"/>ſhed their teſtimony the beaſt that aſcended out of the bottomeleſſe pit ſhould kill them in Hieruſalem where Chriſt was ſlaine, and the Nations ſhould not ſuffer the dead bodies to be buried for three dayes and a halfe, becauſe they were the men that tormented them that dwell on the earth, Verſe 9.10. But after three dayes and a halfe the Spirit of life ſhould enter into them and to the amazement of all their enemies they ſhould ſtand upon their feet, and Richard Farn<g ref="char:EOLhyphen"/>liam ſhould be King upon Davids throne, and Iohn Bull ſhould be Prieſt in Aarons ſeat, and they ſhould raigne for ever. They inſtru<g ref="char:EOLhyphen"/>cted ſuch as came to them in divers points, but becauſe thoſe things that God hath revealed to them are of a high nature, therefore they queſtion men and women in the firſt place of certaine points, that if they cannot anſwer to them, then they concluded that they were not capable of the high myſteries that God hath ſhewed them, and therefore they queſtioned,
+<list>
+                  <item>1 Whether they were actually juſtified before they did repent, or repent before they were actually juſtified.</item>
+                  <item>2 If actually juſtified, then they asked how long ſince, for they ſuppoſed every one knew the direct time of their aſſurance.)</item>
+                  <item>3 They aske ſome other queſtions touching the manner of that worke of their aſſurance of ſalvation, election, &amp;c.</item>
+               </list> which if the Ca<g ref="char:EOLhyphen"/>techumiſts can anſwer, then would they declare other doctrines of higher matters touching the new Ieruſalem and reſurrection of the dead a 1000 yeares before the end of the world, and in this they a<g ref="char:EOLhyphen"/>greed not with the ancient Chileaſts or Millinaries but with the Co<g ref="char:EOLhyphen"/>rinthians that held marrying and getting of Children in that thou<g ref="char:EOLhyphen"/>ſand yeares, they hold that Chriſts death is not for mankind, but
+<pb facs="tcp:112145:3"/>for ſome certaine perſons and that his death only purgeth away ſin before juſtification, but not after, ſaying that ſuch ſins as are com<g ref="char:EOLhyphen"/>mitted after juſtification are not expiated by the ſacrifice of Chriſt, but by his alone interceſſion; they alſo hold that all ſuch as commit the ſinne againſt the Holy Ghoſt ſhall certainly be ſaved; becauſe ſay they, none can commit that but only ſuch as have repented and received the Holy Ghoſt, Heb. 6. and been ſanctified by the blood of the Covenant, Heb. 10. They are certaine ſuch cannot be damned, howſoever ſuch ſhall loſe their aſſurance, their joy, and comfort in God, and in conſcience be as Spira was even in Hell here, ſuch they ſay are delivered up unto Satan, and are not to be prayed for. More<g ref="char:EOLhyphen"/>over that Chriſts prayer, Iohn 17. when he prayed not for the world, but for ſuch as were already converted or ſhould be converted. Out of the world, they ſaid that prayer was not for any, before juſtificati<g ref="char:EOLhyphen"/>on, nor after apoſtacy, and yet thoſe that once have faith, cannot for all the apoſtacies in the world be damned; therefore they held that Hemeneus and Philetus, &amp; Simon Magus, were all certainly ſaved: they alſo hold, God Almighty is the author of ſinne, and that all the miſchiefs that are done in the world were by God decreed: they alſo held that no manner of death could ceaze of themſelves till they came to be ſlaine in Jeruſalem, they ſaid this Kingdome of England is full of abomination, idolatries, and whoredomes, in to<g ref="char:EOLhyphen"/>ken of which God hath moved Richard Farneham the Weaver as he did Hoſea the Prophet, to take to himſelfe another mans wife, viz. a wife of whoredomes, Hoſ. 3. Which Richard Farneham accor<g ref="char:EOLhyphen"/>dingly did, a Seafaring mans wife, a woman of fine parts for know<g ref="char:EOLhyphen"/>ledge in the Scripture, which he deluded, and perſwading her that he was a Prophet, ſhe in obedience to him as a Prophet, (ſo ſhe ſaid) was married to him notwithſtanding her husband alive at ſea, who ſhortly after comming home, laid his wife in Newgate, where ſhe was arraigned and condemned for having two husbands, but Farneham and ſhe both were confident that ſhe ſhould not dye for that; as the Harlot did abide for Hoſea many dayes, ſo they were confident this Seafaring mans wife ſhould for Farneham, which ac<g ref="char:EOLhyphen"/>cordingly came to paſſe, for ſhe being a deluded woman, through mercy, did obtaine a reprieve, and it was ordered that the Seafa<g ref="char:EOLhyphen"/>ring man ſhould have his wife againe, who accordingly tooke her, and lay with her in the priſon; which as they ſaid did occaſion the fulfilling of the third Chapter, which ſaith, Love a woman beloved of her friend, yet an adultreſſe, which this woman was now to her husband Farnham, becauſe ſhe had played the whore with the Sea<g ref="char:EOLhyphen"/>faring man to whom ſhe was given by the Iuſtices; yet not married to him as they ſaid, which by law ſhe ought to have beene, ſo that now they ſaid this is by them made a nationall ſinne, Ier. 3.1. And as they were confident ſhe ſhould not die, but abide for Farneham,
+<pb facs="tcp:112145:3"/>ſo in this they be true Prophets, for the Seafaring man is gone to the Eaſt Indies, and ſhe returned to Farneham in Newbridewell, where he was a priſoner till he ſickned, and Iohn Bull in Old bride<g ref="char:EOLhyphen"/>well, Only through favour had liberty to go abroad, and often met at one Curtains houſe in Roſemary lane, where they both dyed, but Farneham dyed the firſt, and there was betweene Farnhams death and Bulls tenne dayes; that is, thoſe tenne dayes in which they ſuffered great tribulation, which they ſay were foretold. Rev. 2.10. Where it is written, the Devill ſhall eaſt ſome of you into priſon, and ye ſhall ſuffer tribulation ten dayes. Be thou faithfull unto the death, and I will give thee a crowne of life: in which time they did daily exhort one another to conſtancy, and not to be ſtagger'd by the things that then hapned. One of the women ſeeming to utter but ſome doubtfull words, Iohn Bull ſaid away devill, and both Iohn and the women ſaid that Farnham overcoming that great temptation, and holding faſt his confidence to the end, meaning his opinion he then ſhould receave a Crowne only he ſhould lye three dayes and three nights in the heart oft e earth, as Ionah was in the whales belly; but then he ſhould riſe, which accordingly he did, viz. upon Ianuary the eighth, 1641. And that then that Scripture was fulfilled, and not before: moſt impudently affirming, that only in Farnham that Scripture is fulfilled. Alſo moſt blaſphemouſly they affirme, that Farnham is that Prophet which Moſes ſpake of, Deut. 18 18. which was there promiſed to be raiſed up like to Moſes. This ſaid they was not Chriſt, for which they alledge Iohn 1.21 where ſay they, that Prophet, Chriſt, and Elias, are eſteemed three diſtinct perſons. In like manner moſt blaſphemouſly they applyed many Scriptures proper to our Lord, to Richard Farnham, as Pſal 21. The King ſhall rejoyce in thy ſtrength, thou haſt given him his hearts de<g ref="char:EOLhyphen"/>ſire, and haſt ſet a crowne of pure gold upon his head. Alſo Daniel 9.26. Where it is written that Meſſia ſhall be cut off, but not for himſelfe, this they ſay was Farnham Gods anointed. Alſo Iſay 53.8. He was taken from priſon and from judgement, namely Farnham, and who ſhall declare his generation, the heavens muſt containe Chriſts body till the reſtitution, ſay they, Acts 3.21. And therefore al theſe Scriptures and many more are to be fulfilled in Farnham, ſay their deluded proſelites; and that Chriſt doth make him his ſubſti<g ref="char:EOLhyphen"/>tute to do his work on earth, Pſal. 89.19. I have laid help upon him that is mighty, I have exalted one choſen out of the people, that (ſay they) is Farnham, ſo that he is termed Gods battle-axe, Ier. 20.21. Thou art my battle-axe and weapon of warre, for with thee will I break in pieces the nations, and with thee will I deſtroy kingdomes.</p>
+            <p>It would be too tedious to cite the multitude of Scriptures pecu<g ref="char:EOLhyphen"/>liar to the Meſſia that Farnham &amp; his Proſelites moſt blaſphemouſ<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:112145:4"/>applied to that ſeducer: for Iohn Bull that he is to be a Prieſt in the new Ieruſalem, and after his death to be raiſed againe. For that purpoſe they bring, 1 Sam. 2. &amp; 2 laſt verſ. I will raiſe me up a faith<g ref="char:EOLhyphen"/>full High Prieſt, ſaith God, that ſhall do according to that which is in my heart, and he ſhall walk before mine anointed for ever. That King Farnham that is there ſtiled Gods anointed, before whom Iohn Bull muſt be a Prieſt for ever. But if any move a queſtion where theſe two Prophets ſpend their time now, ſeeing they did with ſuch confidence (before they died) affirme, that within three dayes they ſhould riſe againe, and alſo that divers women which were of their company affirme, that they be for certain riſen from the dead.</p>
+            <p>The women anſwer, viz. Farnhams wife, which was the Seafa<g ref="char:EOLhyphen"/>ring mans wife, and one Cortius wife, in whoſe houſe they dyed, Cortin himſelfe had beene of their opinion, who alſo died of the plague. Alſo one Ticknals wife a Carpenter at Wapping, theſe three ſeduced women, ſay that Farnham and Bull are gone to convert the ten Tribes, which ſaid they had travelled a long journey of a yeare and a halfes voyage to finde a countrey to ſerve their God in a countrey in which no man had ever dwelt, 2. Eſdras 13.41. To that place they women are moſt confident they be gone, and that as Mo<g ref="char:EOLhyphen"/>ſes was hid in an Ark of Bullruſhes ſo Farneham and Bull are gone in veſſels of Bullruſhes, ſay 18.1 2. Woe be to that land which they ſay is England, that ſendeth Embaſſadours by the ſea, even in veſſels of bulruſhes upon the waters, ſaying, go ye ſwift meſſengers to a nation ſcattered and rooted, but terrible from the beginning, theſe be the ten Tribes ſay they to whom theſe ſwift meſſengers be now fent: that this is truth, they alledge another place, Iſay 41.25 where they ſay that Farnhams reſurrection and journey is recited in that he was then raiſed from the North, and he ſhall come from the riſing of the Sunne, and ſhall come upon Princes as upon Morter, and as the Potter treadeth the clay. This is that ſay they the Apoſtle ſpeaks of, Acts 13.40, 41. Beware therefore leſt that come upon you which is ſpoken of in the Prophets, which, ſay they, is that Farnham the Lords anointed ſhall come upon the Princes as upon Morter; and as the Potter treadeth the Clay: yea, they are ſo confident of this that they boldly ſay, if the Scriptures be the Word of God, then are theſe things certainly true: and ſo bold and confident that they will in drinking one to another drink to theſe dead friends, Farnham and Bull, ſaying that they be certaine they are alive, and ſhall returne to rule this kingdome with a rod of Iron. Thus we ſee how fearfully theſe poore ſoules are deluded; but more eſpecially may the fruits of their deluſion be diſcerned, for that we may perceave by diſcour<g ref="char:EOLhyphen"/>ſing with them how they rejoyce in it; ye it is even meat and drink to them; and moreover they rejoyce to be evill ſpoke of, and to ſuffer ſhame and reproach, which doubtleſſe they do very much: yea
+<pb facs="tcp:112145:4"/>and ſay, that theſe Prophets left them in charge to ſuffer as much ſhame as was laid upon them, either by following their corps to the grave, or otherwiſe, for the more their ſhame was, the greater ſhould their glory be. Ye Farnhams wife, whoſe husband comming home from ſea, and finding his wife deluded, and ſo married to Farnham, to fulfill (as they did conceave) that in Hoſea, where the Prophet was commanded to take unto himſelfe a wife of whore<g ref="char:EOLhyphen"/>domes Mrs Haddinton (for ſo I take it her name was) ſhe was con<g ref="char:EOLhyphen"/>tent to loſe the glory of being eſteemed an honeſt woman, and to be accounted a wife of whoredomes that ſhe might occaſion as ſhe did conceave the fulfilling of that propheſie. But O the Devill that ſub<g ref="char:EOLhyphen"/>till Serpent, who hath intangled the minds of theſe poor women, for that there was one that would have beene at coſt of opening the graves, though ſix or ſeven weeks after they were dead, that ſo the ſight of the dead corps in graves might have convinced their follies. But O the deepneſſe of Satan, he had perſwaded them how this was the very time that Scripture was fulfilled, Mat. 22.39, 40. An adulte<g ref="char:EOLhyphen"/>rous generation ſeekes a ſigne, but no figne ſhall be given but that of the prophet Ionah where as they ſaid our Lord ſhewed many mi<g ref="char:EOLhyphen"/>racles, but ſaid they the men of this generation, have oft times ſought a ſign from Farnham, but no ſigne muſt be given &amp; therefore if their graves be opened and the ſimillits of their bodies ſhould ap<g ref="char:EOLhyphen"/>peare, to our ſences, it is but what they doe expectt, for that to this generation no ſigne ſhall be given, notwithſtanding they are certaine as they ſay, that their true bodies are not there; the conſideration of which deluſion may make any honeſt Chriſtian even with a ſad heart to poure out prayers for them, and to move thoſe that be able with patience and meekneſſe to prove, if by any meanes they can recover them out of the ſnare of the devill, for that theſe three with ſome others ſetting their deluſion aſide, are eſteemed by underſtanding men, to be women of good parts, honeſt of converſations, and very ready in Scriptures, and therefore it is hoped that it would not be la<g ref="char:EOLhyphen"/>bour loſt, forſomeable divines to labour their reduſing: let him know that he that converteth a ſinner from the errour of his way, ſhall ſave a ſoule from death, and ſhall hide a multitude of ſinnes, Iames 5.20.</p>
+            <p>The wiſe ſhall ſhine as the brightneſſe of the firmament, and they that turne many to righteouſneſſe as the ſtarres for ever and ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
